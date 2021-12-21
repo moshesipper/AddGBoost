@@ -8,7 +8,7 @@ Note: class `AddGBoost` is scikit-learn-compatible.
 
 If you wish to cite this paper:
 ```
-@article{sipper2020new,
+@article{sipper2021addgboost,
   title={AddGBoost: A Gradient Boosting-Style Algorithm Based on Strong Learners},
   author={Sipper, Moshe and Moore, Jason H},
   journal={Machine Learning with Applications},
