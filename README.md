@@ -16,8 +16,5 @@ journal = {Machine Learning with Applications},
 volume = {7},
 pages = {100243},
 year = {2022},
-issn = {2666-8270},
-doi = {https://doi.org/10.1016/j.mlwa.2021.100243},
-url = {https://www.sciencedirect.com/science/article/pii/S2666827021001225},
 }
 ```
