@@ -5,7 +5,9 @@ Code accompanying the paper: [M. Sipper and J. H. Moore, "AddGBoost: A Gradient 
 
 Note: class `AddGBoost` is scikit-learn-compatible.
 
-If you wish to cite this paper:
+### Citation
+
+Citations are always appreciated 😊:
 ```
 @article{sipper2020addgboost,
 author = {Moshe Sipper and Jason H. Moore},
